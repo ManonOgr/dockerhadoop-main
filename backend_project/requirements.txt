@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+pyjwt
+elasticsearch
+python-dotenv
+pandas
+hdfs
+sqlalchemy
+alembic
+asyncpg
+psycopg2-binary

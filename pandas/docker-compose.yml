@@ -1,0 +1,7 @@
+services:
+  jupyter:
+    image: quay.io/jupyter/datascience-notebook:2024-04-29
+    ports:
+     - "10000:8888"
+    volumes:
+      - ./work:/home/jovyan/work
